@@ -1,0 +1,5 @@
+{
+    "jest.jestCommandLine": "",
+    "jestrunner.configPath": "",
+    "jestrunner.jestCommand": "npm test"
+}
